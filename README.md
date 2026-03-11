@@ -10,7 +10,7 @@ Technical Specifications
    Biquad 2: fn2 = 3231 Hz, Q = 1.307.
    Damping Coefficients ($\zeta$): Calculated as 1/(2Q).
 
-   2. Butterworth Filter Design (2nd Order)
+2. Butterworth Filter Design (2nd Order)
     The Butterworth response is optimized for a maximally flat passband.
     Biquad 1: fn1 = 500 Hz, Q = 0.71.
     Biquad 2: fn2 = 4500 Hz, Q = 0.71
